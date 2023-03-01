@@ -1,2 +1,0 @@
-# garibottoproyectofinal
-proyectofinal html, css
