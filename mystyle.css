@@ -1,0 +1,116 @@
+body  {
+    background-color: lightgray}    /* pastel green */
+    /***<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap" rel="stylesheet">*/
+
+ section#hero div {
+    text-align: justify;
+  }
+        section#hero {
+            text-align-last: left;
+            text-transform: capitalize;
+          }
+        
+        section#contac {
+            text-align-last: justify;
+          }
+          img {
+            display: block;
+            margin-left: 10%;
+            margin-right: 0%;
+            width: 40%;
+           
+          }
+          section#info {
+            position: absolute;
+            top: 0%;
+            width: 20%;
+            text-align: center;
+            font-size: 10px;
+          }
+          section#moreinfo {
+            position: absolute;
+            width: 20%;
+            text-align:center;
+            bottom: 5%;
+            font-size: 10.5px;
+          }
+          section#hero {
+            position: absolute;
+            top: 0%;
+            width: 100%;
+            text-align:top left;
+            font-size: 18px;
+          }
+          section#contact {
+            position: absolute;
+            top: 60%;
+            width: 100%;
+            text-align: bottom left;
+            font-size: 12px;
+          }
+          section#experiencia {
+            position: absolute;
+            top: 0%;
+            width: 100%;
+            text-align:center;
+            font-size: 12px;
+          }
+          section#info {
+            position: absolute;
+            right: 500px;
+            width: 300px;
+            border: 15px solid #dee7e9;
+            padding: 10px;
+          }
+          section#hero{
+            position: absolute;
+            left: 20px;
+            width: 300px;
+            border: 20px solid #dee7e9;
+            padding: 10px;
+          }
+         section#contact {
+            position: absolute;
+            left: 20px;
+            width: 300px;
+            border: 20px solid #dee7e9;
+            padding: 10px;
+          }
+          section#moreinfo {
+            position: absolute;
+            right: 500px;
+            width: 300px;
+            border: 15px solid #dee7e9;
+            padding: 10px;
+          }
+          section#experiencia {
+            position: absolute;
+            right: 50px;
+            width: 300px;
+            border: 15px solid #dee7e9;
+            padding: 10px;
+          }
+         
+          img {
+            border-radius: 50%;
+          }
+        section#hero {font-style: oblique;}
+        section#info {font-family: Georgia, 'Times New Roman', Times, serif;}
+        section#contact {font-family: Georgia, 'Times New Roman', Times, serif;}
+        section#contact {
+            background-color: grey;
+          }
+        section#info {
+            background-color: grey;
+          }
+          section#moreinfo {
+            background-color: grey;
+          }
+          section#experiencia {
+            background-color: grey;
+          }
+          section#hero {
+            background-color: lightgrey;
+          }
